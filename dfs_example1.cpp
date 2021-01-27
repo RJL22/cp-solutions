@@ -6,6 +6,8 @@
 /*
 This program finds all the possible letter combinations for a given phone number.
 Note: The numbers '0' and '1' are not associated with any letters
+
+Summary: dfs using recursion
 */
 
 //                           Index:  0   1     2      3      4      5      6      7       8      9
